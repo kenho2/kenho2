@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ken 👋
 
-<!--
-**kenho2/kenho2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a technical professional specializing in system integration, enterprise software implementation, and automated workflows. With a background blending leadership and hands-on technical execution, I bridge the gap between complex business requirements and robust, deployed solutions.
 
-Here are some ideas to get you started:
+I focus on building client-ready integrations, self-healing automation scripts, and proof-of-concept architectures that demonstrate clear business value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Focus
+* **System Integration:** REST APIs, OAuth, Webhooks, Data Parsing & Migration
+* **AI & Automation:** Agentic workflows (AWS Bedrock, Claude), Computer Vision pipelines
+* **Troubleshooting:** Log analysis, network debugging, exception handling, and runbook creation
+* **Languages & Tools:** Python, PowerShell, Git, VS Code, Linux/Windows environments
+
+## 📌 Featured Work
+
+### 1. [Enterprise PPE Compliance Workflow](https://github.com/kenho2/ppe-demo-workflow)
+An automated computer vision pipeline designed for real-world deployment. 
+* **The Value:** Automates compliance tracking using live RTSP streams.
+* **The Tech:** Features robust error handling, self-healing retry mechanisms for API mismatches, and dynamic environment configuration—mirroring standard enterprise deployment practices.
+
+### 2. [Multi-Agent AWS Bedrock Orchestrator](https://github.com/kenho2/bedrock_multi_agent)
+A cloud-native AI architecture demonstrating how to connect foundational models to deterministic local tools.
+* **The Value:** Serves as an extensible template for enterprise AI adoption.
+* **The Tech:** Implements ReAct-style reasoning to dynamically route user intent, trigger local Python plotting scripts, and render outputs, all wrapped in a clean, modular architecture.
+
+📫 **Let's connect:** [https://www.linkedin.com/in/kenho/]
